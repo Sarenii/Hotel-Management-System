@@ -17,6 +17,8 @@ During the design process, we made several decisions to improve the user experie
 Simplifying the user interface: We used a clean, minimalist design with intuitive navigation to make it easy for users to find what they needed.
 Incorporating visual cues: We used icons, colors, and animations to guide users through the reservation and order processes and provide feedback on their actions.
 Ensuring accessibility: We followed accessibility best practices, such as using high-contrast colors and providing alternative text for images, to make the application accessible to users with disabilities.
+
+
 Results:
 The hotel management system has been a success, with the client reporting significant improvements in their operations and customer satisfaction. The web application has streamlined the reservation and order processes, reduced errors, and enabled staff to focus on providing high-quality service to guests. In addition, the user-friendly interface has made it easy for guests to make reservations and place orders, leading to increased revenue for the hotel chain.
 
